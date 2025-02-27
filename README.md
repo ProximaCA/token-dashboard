@@ -41,13 +41,19 @@ The **Token Dashboard MVP** is a cutting-edge analytical tool designed for the c
 ## Visual Overview
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300?text=Dashboard+Screenshot" alt="Dashboard Screenshot" width="600"/>
+  <img src="https://imgur.com/a/fwiDzAI" alt="Home Page" width="600"/>
+  <br/>
+  <i>Home Page</i>
+</div>
+
+<div align="center">
+  <img src="https://imgur.com/a/NPXmqgR" alt="Dashboard Screenshot" width="600"/>
   <br/>
   <i>Dashboard view displaying token metrics and transaction analytics</i>
 </div>
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300?text=Contract+Verification+Screenshot" alt="Contract Verification Screenshot" width="600"/>
+  <img src="https://imgur.com/a/il9Arfg" alt="Contract Verification Screenshot" width="600"/>
   <br/>
   <i>Contract verification view for quick ERC-20 compliance checks</i>
 </div>
@@ -88,7 +94,7 @@ In our next development phases, we are planning to implement:
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ProximaCA/token-dashboard
    cd token-dashboard
    ```
 
@@ -99,9 +105,6 @@ In our next development phases, we are planning to implement:
 
    # Or using pnpm
    pnpm install
-
-   # Or using npm
-   npm install
    ```
 
 3. Start the development server
@@ -112,19 +115,15 @@ In our next development phases, we are planning to implement:
    # Or using pnpm
    pnpm dev
 
-   # Or using npm
-   npm run dev
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ### Using the DApp
 
-1. **Connect your wallet** (optional)
-   - Click the "Connect Wallet" button in the header
-   - Select your preferred wallet provider
 
-2. **Analyze a token**
+
+1. **Analyze a token**
    - Navigate to the Token Analyzer page
    - Enter an ERC-20 token contract address
      > **Note:** Always use the token contract address, not the liquidity pool (pair) address. This dashboard analyzes the token itself, not the trading pair.
@@ -132,7 +131,7 @@ In our next development phases, we are planning to implement:
    - Optionally enter the token price in USD to calculate market cap
    - Click "Analyze Token"
 
-3. **Verify a contract**
+2. **Verify a contract**
    - Navigate to the Verify Contract page
    - Enter an ERC-20 token contract address
    - Select the network
