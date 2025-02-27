@@ -41,7 +41,7 @@ The **Token Dashboard MVP** is a cutting-edge analytical tool designed for the c
 ## Visual Overview
 
 <div align="center">
-  <img src="https://imgur.com/a/fwiDzAI.png" alt="Home Page" width="600"/>
+  <img src="https://i.imgur.com/ezkQbn6.png" alt="Home Page" width="600"/>
   <br/>
   <i>Home Page</i>
 </div>
@@ -53,7 +53,7 @@ The **Token Dashboard MVP** is a cutting-edge analytical tool designed for the c
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/a/il9Arfg.png" alt="Contract Verification Screenshot" width="600"/>
+  <img src="https://i.imgur.com/zBLaeQ1.png" alt="Contract Verification Screenshot" width="600"/>
   <br/>
   <i>Contract verification view for quick ERC-20 compliance checks</i>
 </div>
