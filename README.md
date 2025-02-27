@@ -47,7 +47,7 @@ The **Token Dashboard MVP** is a cutting-edge analytical tool designed for the c
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/a/NPXmqgR" alt="Dashboard Screenshot" width="600"/>
+  <img src="https://i.imgur.com/xSOdja2.png" alt="Dashboard Screenshot" width="600"/>
   <br/>
   <i>Dashboard view displaying token metrics and transaction analytics</i>
 </div>
